@@ -1,2 +1,2 @@
-# july.css
-A beautiful, colorful classless CSS theme reminiscent of a hot July day!
+# beech-red.css
+A red version of beech.css!
