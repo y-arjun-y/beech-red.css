@@ -1,0 +1,28 @@
+{
+  "name": "beech-red.css",
+  "version": "1.0.0",
+  "description": "The red version of beech.css, a classless CSS theme that makes your website easy on the eyes!",
+  "main": "style.css",
+  "scripts": {
+    "test": "npx serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-arjun-y/beech-red.css.git"
+  },
+  "keywords": [
+    "css",
+    "theme",
+    "web-design",
+    "classless",
+    "classless-theme",
+    "no-class",
+    "classless-css"
+  ],
+  "author": "Arjun Yadav (https://arjunyadav.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/y-arjun-y/beech-red.css/issues"
+  },
+  "homepage": "https://github.com/y-arjun-y/beech-red.css#readme"
+}
